@@ -54,7 +54,7 @@ Live Deployment on Render
 
 ## 🔢 How It Works
 
-1. The user fills in academic metrics.
+1. The user fills the required input on provided interface.
 2. Inputs are scaled using `StandardScaler`.
 3. Logistic model (**hypertuned with GridSearchCV**) predicts whether the person is **Diabetic or Not**
 4. Result is displayed below the form dynamically.
