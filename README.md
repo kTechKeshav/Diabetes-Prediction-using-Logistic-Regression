@@ -16,7 +16,7 @@ This project predicts whether a person has diabetes using a logistic regression 
 
 ## 📸 Preview
 
-![App Screenshot](images\Screenshot.png)
+<img src="images/Screenshot.png" alt="Prediction Page UI" width="500" height="700"/>
 
 ---
 
